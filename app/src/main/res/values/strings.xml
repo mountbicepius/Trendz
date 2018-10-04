@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Trendz</string>
+    <string name="title_activity_trnds">Trendz</string>
 </resources>
